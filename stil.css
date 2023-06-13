@@ -1,0 +1,57 @@
+
+p  {
+    color: LightCoral;
+	font-family: Constantia, "Lucida Bright", "Dejavz Serif", Georgia, "Serif";
+	font-size: 18px;
+	line-height: 20px;
+	width: 1000px;
+	background-color: aliceblue;
+	padding: 22px;
+ }
+ .font2 {
+	 font-family: NikaLazo_novo;
+	 font-size: 100px;
+	 color: cadetblue;
+	 line-height: 90px;
+}	 
+ .font1 {
+	color: cadetblue;
+}
+ h1  {
+	 font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	 color: cadetblue;
+	 font-size: 45px;
+	 line-height: 40px;
+ }
+  h2  {
+	 font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	 color: rgb(255,255,153);
+	 font-size: 35px;
+ }
+ body {
+	 background-image: url("Slike/slika3html.jpg");
+ }
+li {
+	 display: inline;
+	 color: white;
+     background-color: pink;
+	 padding: 20px;
+     border: 2px solid black;
+ }
+ li a {
+	 text-transform: uppercase;
+ }
+a:link {
+	 color: black;
+	 background-color: white;
+	 padding: 5px;
+	 line-height: 60px;
+	 border: 1px solid #000000;
+}
+a:hover {
+	 background-color: yellow;
+ }
+ img  {
+	 height: 390px;
+ }
+ 
